@@ -11,4 +11,8 @@ body {
     body {
         background-image: unset;
     }
+
+    .navbar {
+        padding-top: 25px;
+    }
 }
