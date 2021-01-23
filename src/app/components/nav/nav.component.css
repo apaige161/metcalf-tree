@@ -1,0 +1,24 @@
+
+
+
+.trees {
+    vertical-align: middle;
+}
+
+
+
+
+
+
+
+/*
+*
+*   remove extra tree icons on a mobile device
+*
+*/
+@media (max-width: 640px) 
+{
+    #upperTrees {
+        display: none;
+    }
+}
