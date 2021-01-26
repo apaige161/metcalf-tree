@@ -1,11 +1,19 @@
 
 .trees {
     vertical-align: middle;
+    color: green;
 }
 
 
 .nav-container{
     padding-top: 50px;
+    background-color: black;
+    opacity: 95%;
+}
+
+.logo{
+    font-family: Georgia;
+    font-weight: bold;
 }
 
 
